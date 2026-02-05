@@ -156,3 +156,4 @@ rendercv render "John_Doe_CV.yaml"
 ```
 
 For more details, see the [user guide](user_guide/index.md).
+
